@@ -1,5 +1,5 @@
 
-import timbuchalka.demy.arraylistchallenge.MobilePhone;
+import timbuchalka.udemy.arraylistchallenge.MobilePhone;
 
 public class Main {
 

@@ -1,6 +1,5 @@
-package timbuchalka.demy.arraylistchallenge;
+package timbuchalka.udemy.arraylistchallenge;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 public class Contacts {

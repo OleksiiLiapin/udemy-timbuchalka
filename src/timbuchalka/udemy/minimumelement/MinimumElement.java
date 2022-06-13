@@ -1,4 +1,4 @@
-package timbuchalka.demy.minimumelement;
+package timbuchalka.udemy.minimumelement;
 
 import java.util.Scanner;
 

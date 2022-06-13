@@ -1,7 +1,6 @@
-package timbuchalka.demy.arraylist;
+package timbuchalka.udemy.arraylist;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 
 public class Grocery {

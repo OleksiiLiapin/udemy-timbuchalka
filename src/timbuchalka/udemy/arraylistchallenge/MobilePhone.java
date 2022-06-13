@@ -1,4 +1,4 @@
-package timbuchalka.demy.arraylistchallenge;
+package timbuchalka.udemy.arraylistchallenge;
 
 import java.util.Objects;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package timbuchalka.demy.appartment;
+package timbuchalka.udemy.appartment;
 
 public class Room {
     private String name;
